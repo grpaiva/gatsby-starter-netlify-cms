@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/08/09215831/aproveitar-tempo-150x150.png
+image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/08/09215831/aproveitar-tempo-150x150.png
 ---
 Tempo: você pode aproveitá-lo de diversas formas, seja poupando-o, matando-o ou gastando-o com atividades produtivas ou não. Mas uma coisa que os empresários não devem fazer com seu tempo, de acordo com David Schonthal, é deixá-lo em estado líquido – correndo sem controle, perdendo-o desnecessariamente.
 
