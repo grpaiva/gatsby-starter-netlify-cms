@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/22211249/Descola_umadica-11-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/22211249/Descola_umadica-11-150x150.png
 ---
 A indicação da semana é para aqueles que querem entender como funciona o nosso cérebro. Dica da professora Martha Terenzzo, do curso de [Storytelling](https://descola.org/curso/storytelling), **Brain Rules** é um dos livros do biólogo John Medina.
 

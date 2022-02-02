@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/05/31205328/future-jobs-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/05/31205328/future-jobs-150x150.png
 ---
 Um robô poderia fazer o seu trabalho? Milhões de pessoas que não se prepararam para o futuro da automação em breve se verão em momentos difíceis, pois a resposta para a pergunta é sim.
 

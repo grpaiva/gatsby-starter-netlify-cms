@@ -9,7 +9,7 @@ tags:
     - 'cursos online'
     - 'dicas ead'
     - produtividade
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/20131108/boost-produtividade-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/20131108/boost-produtividade-150x150.png
 ---
 Cursos online são práticos e apresentam vantagens incríveis para quem os faz. É muito bom poder aprender temas relevantes de onde estiver ou sem ter que sair de casa, ficando em um ambiente muito mais confortável e tranquilo.
 

@@ -8,7 +8,7 @@ tags:
     - 'Dicas de Empreendedorismo'
     - empreendedorismo
     - 'Jovens Empreendedores'
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/02/22015145/INSPIRE-150x150.jpeg'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/02/22015145/INSPIRE-150x150.jpeg'
 ---
 <div id="article_parsed">O mundo de hoje está repleto de oportunidades e, geralmente, quem tem uma boa ideia em mente e disposição para trabalhar e botá-la em prática pode fazer um grande dinheiro. Histórias de sucesso não faltam, e existem várias mentes brilhantes que podem surgir como uma bela fonte de inspiração.
 

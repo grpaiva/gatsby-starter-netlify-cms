@@ -7,7 +7,7 @@ templateKey: blog-post
 tags:
     - 'negócios sustentáveis'
     - sustentabilidade
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/01/05144846/images1-150x150.jpg'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/01/05144846/images1-150x150.jpg
 ---
 Para 2015, uma grande tendência é a inovação sustentável. E é possível criar não somente novos negócios criativos e sustentáveis, mas também adequar uma empresa para seguir esta filosofia sem que ela deixe de ser competitiva.
 

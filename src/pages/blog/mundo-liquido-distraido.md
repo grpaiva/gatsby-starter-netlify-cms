@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/10/27171933/ipad-tablet-technology-touch-150x150.jpg'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/10/27171933/ipad-tablet-technology-touch-150x150.jpg
 ---
 <div>O despertador do celular toca. Você acorda, puxa as notificações, abre suas mensagens, seus e-mails, lê as últimas notícias, os últimos posts, confere a previsão do tempo, vê se a sua encomenda já tá a caminho, comenta as últimas fotos dos amigos, acompanha o que tá acontecendo no Oriente Médio, a cotação da bolsa, as eleições norte americanas…</div><div>Essa última frase parece extensa e cansativa, não? Mas tudo isso já faz parte da nossa rotina de maneira tão despercebida que a gente já nem se dá mais conta e, provavelmente, acharíamos estranho se não o fizéssemos.
 

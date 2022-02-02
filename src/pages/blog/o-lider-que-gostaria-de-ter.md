@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/09/10185025/modelos-gestao-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/09/10185025/modelos-gestao-150x150.png
 ---
 Em época de eleição, a transparência se torna assunto até de happy hour. E não é só os candidatos à presidência que nos preocupam. Estamos buscando por cada vez mais conhecimento acerca do nível de transparência de tudo o que nos cerca: dos nossos relacionamentos interpessoais aos serviços que utilizamos todos os dias.
 

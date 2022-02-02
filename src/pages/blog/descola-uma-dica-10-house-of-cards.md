@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/14192116/Descola_umadica-10-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/14192116/Descola_umadica-10-150x150.png
 ---
 Estamos no meio do feriadão, então resolvemos trazer uma dica bacana pra quem curte um balde de pipoca e uma boa série.
 

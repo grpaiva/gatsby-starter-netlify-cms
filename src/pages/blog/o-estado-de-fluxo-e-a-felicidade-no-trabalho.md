@@ -10,7 +10,7 @@ tags:
     - flow.
     - fluxo
     - produtividade
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/06/24080207/fluxo_Descola-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/06/24080207/fluxo_Descola-150x150.png
 ---
 Estão preparados para um pouco de psicologia? Nossa conversa hoje tem como base dois psicólogos muito influentes, que estudam áreas relacionadas à felicidade do ser humano.
 

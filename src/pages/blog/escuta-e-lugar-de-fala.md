@@ -10,7 +10,7 @@ tags:
     - 'descola cursos'
     - inclusão
     - inclusiva
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/31192116/student-speaker-at-seminar-TUA3BKB-150x150.jpg'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/31192116/student-speaker-at-seminar-TUA3BKB-150x150.jpg
 ---
 A INCLUSÃO PASSA PELA CONSCIÊNCIA DAS DIFERENÇAS SOCIAIS E POR UMA ESCUTA ATIVA, SEM JULGAMENTOS.
 

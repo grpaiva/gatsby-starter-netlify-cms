@@ -8,7 +8,7 @@ tags:
     - diy
     - 'faça você mesmo'
     - 'mao na massa'
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/13091729/Felix_3D_Printer_-_Printing_Head-150x150.jpg'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/13091729/Felix_3D_Printer_-_Printing_Head-150x150.jpg
 ---
 <div class="form-group">“A próxima revolução industrial”. É com estas palavras que Chris Anderson — referência quando o assunto é tecnologia, autor do livro “A cauda longa”, e ex-editor da revista americana Wired — define o movimento **DIY**, acrônimo de *Do It Yourself*, ou Faça Você Mesmo.</div><div class="offer-content ng-binding ng-scope">Não é difícil embarcar neste entusiasmo quando analisamos brevemente o momento em que estamos vivendo: a tecnologia de impressão 3D já possui modelos de prototipagem rápida vendidos a preços cada vez mais acessíveis*. Hardwares* ficaram tão fáceis de comprar quanto*softwares*. A chamada “internet das coisas” abre uma série de possibilidades e o *crowdfunding*, como uma cereja do bolo, torna-se um mecanismo capaz de tornar ainda mais fácil as iniciativas de pessoas tão comuns quanto cada um de nós.
 

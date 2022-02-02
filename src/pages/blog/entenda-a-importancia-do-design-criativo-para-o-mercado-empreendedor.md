@@ -8,7 +8,7 @@ tags:
     - 'design criativo'
     - empreendedorismo
     - 'importância do design criativo para o mercado empreendedor'
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/08/10155121/designcriativo_descola-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/08/10155121/designcriativo_descola-150x150.png
 ---
 [<u>Empreender</u>](http://descola.org/drops/empreender-e-resolver-problemas/) hoje em dia deixou de se referir apenas ao ato de abrir ou de gerenciar um novo negócio. O mercado atual exige cada vez mais ações diferenciadas e inovadoras, ao estar inserido em um âmbito de rápidas [<u>mudanças tecnológicas</u>](http://descola.org/drops/inovacao-tecnologica-descubra-como-essa-ferramenta-e-aliada-ao-empreendedor/) e de intensa competitividade.
 

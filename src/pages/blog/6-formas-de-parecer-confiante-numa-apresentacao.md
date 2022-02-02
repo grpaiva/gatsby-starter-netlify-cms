@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/29222614/linguagem-corporal-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/29222614/linguagem-corporal-150x150.png
 ---
 Não é todo mundo que nasce com aquele “dom” de fazer [grandes apresentações](https://descola.org/curso/discurse). Até porque, a gente nem acredita que isso seja um dom – é muito mais sobre trabalho duro, prática, repertório e muito estudo.
 

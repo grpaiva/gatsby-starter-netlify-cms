@@ -11,7 +11,7 @@ aspect_ratio:
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2014/10/28201720/Screen-Shot-2016-02-29-at-12.27.59--150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2014/10/28201720/Screen-Shot-2016-02-29-at-12.27.59--150x150.png
 ---
 Assista um trecho do curso que lançamos sobre como montar apresentações melhores!
 

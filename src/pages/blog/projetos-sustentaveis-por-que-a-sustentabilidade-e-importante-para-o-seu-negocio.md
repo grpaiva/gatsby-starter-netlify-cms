@@ -9,7 +9,7 @@ tags:
     - sustentabilidade
     - sustentável
     - transformação
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/03/11140516/Change-and-Sustainability-150x150.jpg'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/03/11140516/Change-and-Sustainability-150x150.jpg
 ---
 Considerando a quantidade de habitantes na terra e a atividade industrial que não para de crescer, uma das maiores preocupações da sociedade é como o mundo estará no futuro, em termos de condições de vida. Ecossistemas do planeta estão se deteriorando e o clima está mudando. Apesar de quase um terço da população mundial viver em extrema pobreza, estamos consumindo tanto e tão rapidamente, que já estamos vivendo muito além da capacidade do globo terrestre. Neste contexto é cada vez mais crucial que empresas de todos os portes adequem processos e produtos dentro dos princípios de desenvolvimento sustentável.
 

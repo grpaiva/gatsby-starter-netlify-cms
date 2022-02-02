@@ -10,7 +10,7 @@ tags:
     - 'como aprender'
     - 'curso online'
     - neurociência
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/09/09180610/Captura-de-Tela-2021-09-09-a%CC%80s-15.05.47-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/09/09180610/Captura-de-Tela-2021-09-09-a%CC%80s-15.05.47-150x150.png
 ---
 ```
 <pre class="wp-block-verse">O que há por trás das emoções? Por que cada um de nós aprende a partir de diferentes estímulos? Como funciona a nossa memória?

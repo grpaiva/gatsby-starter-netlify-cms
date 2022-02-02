@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/03/27221552/proposito-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/03/27221552/proposito-150x150.png
 ---
 Provavelmente alguém já deve ter te perguntando (ou você já deve ter feito essa questão): **qual seu propósito de vida?** Dedicar-se à família, construir uma carreira brilhante, viajar o mundo…?
 

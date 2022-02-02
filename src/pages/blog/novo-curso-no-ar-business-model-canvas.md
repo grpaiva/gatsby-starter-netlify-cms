@@ -9,7 +9,7 @@ tags:
     - 'business model'
     - 'business model canvas'
     - 'modelagem de negócios'
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/05/27131019/business-model-canvas2-150x150.jpg'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/05/27131019/business-model-canvas2-150x150.jpg
 ---
 É com muito orgulho que trazemos para vocês nosso [**novo curso**](http://http://descola.org/curso/14/business-model-canvas): Business Model Canvas: como dominar essa ferramenta. Uma imersão rápida e prática nessa ferramenta tão útil para modelagem de negócios.
 

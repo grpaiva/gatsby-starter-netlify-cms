@@ -5,7 +5,7 @@ author: 'André Tanesi'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/12/20203154/descola-2017-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/12/20203154/descola-2017-150x150.png
 ---
 Como todo discurso de final de ano, a gente sempre começa dizendo que o ano que passou foi recheado de alegrias, desafios, surpresas e muita força para chegarmos até aqui.
 

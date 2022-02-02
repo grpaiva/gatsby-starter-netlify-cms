@@ -8,7 +8,7 @@ tags:
     - 'como liderar'
     - 'diferença de líder e chefe'
     - liderança
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/11/03215105/liderXchefe-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/11/03215105/liderXchefe-150x150.png
 ---
 Uma boa gestão é essencial para assegurar o crescimento e o sucesso de qualquer empresa. E neste sentido, é preciso compreender que gerir exige bem mais do que apenas conhecimento técnico e visão estratégica: é necessário contar também com práticas relacionadas ao capital humano, a atração e retenção de talentos, a satisfação e o engajamento dos colaboradores, ao desenvolvimento dos profissionais e à formação de equipes de alto rendimento. Assim, é possível perceber a importância do líder para uma gestão com foco em resultados e pessoas.
 

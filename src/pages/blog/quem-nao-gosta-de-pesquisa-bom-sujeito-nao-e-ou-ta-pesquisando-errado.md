@@ -6,7 +6,7 @@ featuredpost: false
 templateKey: blog-post
 tags:
     - pesquisa
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/10/04160456/pesquisa-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/10/04160456/pesquisa-150x150.png
 ---
 Nas últimas semanas me deparei algumas vezes com pessoas invocando gênios como Steve Jobs e Henry Ford para argumentar porque não acreditam em pesquisa.
 

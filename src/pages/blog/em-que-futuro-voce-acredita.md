@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2020/02/27205806/young-businessman-sticking-adhesive-notes-on-XDNKC7T-150x150.jpg'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2020/02/27205806/young-businessman-sticking-adhesive-notes-on-XDNKC7T-150x150.jpg
 ---
 **Seu futuro está em suas mãos ou escrito nas estrelas?**
 

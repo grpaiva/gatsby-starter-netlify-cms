@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/02/14200647/inteligencia-artificial1-150x150.png'
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/02/14200647/inteligencia-artificial1-150x150.png
 ---
 Você já deve ter ouvido falar em algum momento sobre o termo inteligência artificial, nem que seja no filme homônimo de Steven Spielberg. O filme lançado em 2001 apresentava uma porção de teorias que pareciam muito distantes de nós e, para algumas pessoas, até impossíveis. Mas os tempos estão mudando: as máquinas e a inteligência artificial estão cada vez mais presentes em nosso dia a dia.
 
