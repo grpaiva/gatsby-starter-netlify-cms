@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/13214635/big-open-data-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/13214635/big-open-data-150x150.png'
 ---
 Desde o início do século XXI, a quantidade de dados e informações que circulam pelas empresas, organizações e órgãos públicos cresceu exponencialmente. E continua crescendo assustadoramente dia após dia. Estima-se que, desde 2012, são criados diariamente 2,5 exabytes. Isso equivale a 2,5 ×10<sup>9 </sup>gigabytes – 2,5 trilhões de gigas por dia!
 

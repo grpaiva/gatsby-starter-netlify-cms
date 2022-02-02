@@ -6,7 +6,7 @@ featuredpost: false
 templateKey: blog-post
 tags:
     - 'economia criativa'
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/29085030/economia-criativa-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/29085030/economia-criativa-150x150.png'
 ---
 Você já deve ter ouvido falar de “Economia Criativa” e como ela vem se expandindo nos últimos anos. Se ainda não ouviu, saiba que trata-se de um mercado que cresce acima da média nacional anual e está em quase todos os setores da economia, embora as pessoas associem a indústria criativa basicamente à sua vertente cultural e tecnológica.
 

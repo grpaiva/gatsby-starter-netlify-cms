@@ -15,7 +15,7 @@ tags:
     - 'curso descola'
     - 'fazendo moda'
     - 'jussara romão'
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/05/06151050/jussara_romao_curso_moda_descola_-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/05/06151050/jussara_romao_curso_moda_descola_-150x150.png'
 ---
 É com muito orgulho que trazemos duas ótimas notícias nesta quarta-feira: tiramos do forno (<u>**[e colocamos no ar](http://descola.org)**</u>) nosso novo site, repaginado e mais intuitivo, além de estrearmos (como você pode ver no teaser acima) nosso mais novo curso: <u>[**Fazendo Moda – Panorama da Moda e sua Importância na Sociedade**](http://http://descola.org/curso/9/moda-panorama-social)</u>.
 

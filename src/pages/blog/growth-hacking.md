@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/02/09201853/growth-hacking1-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/02/09201853/growth-hacking1-150x150.png'
 ---
 Você sabe o que é Growth Hacking? Muito se fala sobre esse processo, mas o fato é que ele ainda é um mistério para muita gente que tem empresa.
 

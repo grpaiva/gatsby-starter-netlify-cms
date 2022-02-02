@@ -5,7 +5,7 @@ author: 'André Tanesi'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/07/19194717/manifesto-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/07/19194717/manifesto-150x150.png'
 ---
 O ano era 2011. Uns caras inquietos que queriam aprender mais sobre assuntos novos resolveram organizar seus próprios conteúdos, de forma prática e rápida para outros amigos. Falamos de Gamification, Open Data e até sobre produção de cerveja artesanal.
 

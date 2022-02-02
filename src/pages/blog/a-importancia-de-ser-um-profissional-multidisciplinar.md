@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/12/12170928/t-shaped1-150x150.jpg'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/12/12170928/t-shaped1-150x150.jpg'
 ---
 Foi-se o tempo em que as pessoas mais valorizadas eram aquelas que sabiam só uma coisa e eram especialistas nisso. Ter uma especialidade é importante, mas além disso, é mais significativo ainda também ser um profissional multidisciplinar.
 

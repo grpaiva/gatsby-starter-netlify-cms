@@ -8,7 +8,7 @@ tags:
     - Empreendimento
     - Lean
     - Metodologia
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/10/26150547/lean_startup-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/10/26150547/lean_startup-150x150.png'
 ---
 A metodologia Lean, criada pelo americano Eric Ries, vem ganhando cada vez mais adeptos no Brasil e já é um dos métodos mais populares na criação e gestão de startups no mundo. A metodologia Lean oferece uma abordagem científica, promovendo de forma sistemática a participação de empresários no desenvolvimento de novos produtos, fornecendo respostas sobre como configurar sua inicialização e quais devem ser os passos seguintes para crescer e obter sucesso.
 

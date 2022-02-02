@@ -5,7 +5,7 @@ author: 'Stella Seixas'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2019/01/10143813/capa_LUCIA-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2019/01/10143813/capa_LUCIA-150x150.png'
 ---
 É muito legal quando temos que realizar um projeto novo, aquele ânimo para começar, a confiança, a descarga de adrenalina, você se sente pronto para tomar o mundo.
 

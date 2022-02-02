@@ -8,7 +8,7 @@ tags:
     - criatividade
     - negócios
     - oportunidades
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/03/30101137/ideias_oportunidades-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/03/30101137/ideias_oportunidades-150x150.png'
 ---
 ​O brasileiro é conhecido por ser um povo criativo, capaz de apresentar soluções originais e empreendedoras. Somos hábeis em transformar aquilo que é apenas uma ideia em uma grande oportunidade de negócio.
 

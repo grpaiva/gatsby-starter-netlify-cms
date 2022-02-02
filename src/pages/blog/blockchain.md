@@ -5,7 +5,7 @@ author: 'Tai Lacerda'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/03/14172244/blockchain_v3-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/03/14172244/blockchain_v3-150x150.png'
 ---
 Existe um mundo secreto além dos nossos olhos e por entre as raízes das árvores em que esbarramos por aí. Você conseguiria imaginar que as árvores da calçada da sua casa estão conectadas a todas as outras árvores do seu bairro? Pois é, elas estão.
 

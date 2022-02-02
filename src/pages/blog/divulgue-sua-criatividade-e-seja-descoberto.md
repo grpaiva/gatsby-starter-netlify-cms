@@ -9,7 +9,7 @@ tags:
     - divulgação
     - 'Divulgue sua criatividade'
     - 'redes sociais'
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/08/24101002/descola_divulgue_criatividade-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/08/24101002/descola_divulgue_criatividade-150x150.png'
 ---
 Publicar *selfies* tiradas em pontos turísticos, compartilhar o link de um vídeo engraçado ou fazer *check-in* em um super restaurante são práticas muito comuns nas redes sociais. Você, sem dúvida, já deve ter feito isso hoje ou viu uma postagem de algum amigo na sua *timeline*, não?
 

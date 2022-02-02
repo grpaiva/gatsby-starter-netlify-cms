@@ -5,7 +5,7 @@ author: 'Gustavo Paiva'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/04/13232125/code3-150x150.jpg'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/04/13232125/code3-150x150.jpg'
 ---
 Hoje em dia existem várias iniciativas para que as pessoas aprendam a programar. Como por exemplo a [Hour of Code](https://hourofcode.com/) que rodou o mundo com [esse vídeo aqui](https://www.youtube.com/watch?v=nKIu9yen5nc), ou a [Codecademy](https://www.codecademy.com/) que oferece cursos gratuitos para quem quiser aprender. É verdade, é uma habilidade muito desejável independente da área que você trabalha, seja para melhor entender o mundo em que vivemos, para poder se comunicar melhor com equipes técnicas ou até porque você gosta do bom e velho DIY (leia mais sobre a revolução do “Do it yourself” [aqui](http://descola.org/drops/diy-a-revolucao-do-faca-voce-mesmo/)).
 

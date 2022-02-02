@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/11/17204518/storytelling-publicidade-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/11/17204518/storytelling-publicidade-150x150.png'
 ---
 As diversas faces e aplicações do [Storytelling](https://descola.org/curso/storytelling) você já conhece. Contar uma história faz com que os locutores criem, quase que involuntariamente, sentimentos de empatia, alegria, tristeza, amor, dor. Quando alguém conta uma história para gente, não tem como não imaginar tudo aquilo que está sendo dito – situações, problemáticas, objetos, lugares. É difícil também não se colocar no lugar da pessoa, pelo menos para pensar o que a gente faria na hora.
 

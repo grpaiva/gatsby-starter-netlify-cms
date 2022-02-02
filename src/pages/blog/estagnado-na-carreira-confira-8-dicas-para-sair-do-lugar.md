@@ -7,7 +7,7 @@ templateKey: blog-post
 tags:
     - 'dicas para sair do lugar'
     - 'Estagnado na carreira'
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/01/07114217/Depositphotos_22303335_s-150x150.jpg'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/01/07114217/Depositphotos_22303335_s-150x150.jpg'
 ---
 Pronto para alavancar sua vida profissional em 2015? Com a alta competitividade no mercado de trabalho, é preciso se manter em movimento para acompanhar as mudanças e não ficar parado na carreira. O investimento contínuo em cursos de especialização, cursos de idiomas, graduações complementares e intercâmbios são diferencias que alavancam a carreira e te destacam dentro da sua área profissional.
 

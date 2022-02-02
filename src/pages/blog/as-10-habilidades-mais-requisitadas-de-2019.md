@@ -5,7 +5,7 @@ author: 'Stella Seixas'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2019/01/24123110/capa_LINKEDIN-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2019/01/24123110/capa_LINKEDIN-150x150.png'
 ---
 Os Estados Unidos se encontra em uma crise no mercado de trabalho, com um estimado de 7 milhões de vagas não preenchidas por falta de pessoas qualificadas. Os preços de faculdades no país nunca estiveram tão altos, o que leva muitos jovens a optarem por cursos profissionalizantes em detrimento à grandes Ivy Leagues.
 

@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/11/30181344/scamper-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/11/30181344/scamper-150x150.png'
 ---
 A fim de gerar soluções inovadoras para os desafios que encontramos nos negócios, buscamos sempre técnicas criativas de geração de ideias que envolvam nossa capacidade de inventar e repensar alternativas. Entre as técnicas mais conhecidas estão o [brainstorming](https://descola.org/drops/06-maneiras-de-manter-a-criatividade-dentro-de-nos/), o mindmap e o brainwritting. Mas além dessas, alguns métodos mais completos podem facilitar ainda mais o processo criativo. Um deles é a ferramenta **SCAMPER**.
 

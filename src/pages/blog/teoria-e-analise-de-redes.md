@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/10/21152030/teoria-das-redes-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/10/21152030/teoria-das-redes-150x150.png'
 ---
 A análise de redes é uma ciência recente. Muitas descobertas das últimas décadas estão mudando a forma como enxergamos as relações entre tudo que nos cerca. Entender a lógica de redes é fundamental para o pensamento ecossistêmico e para encontrar oportunidades em meio a complexidade em que vivemos. Muitas vezes queremos colocar um projeto em prática mas não sabemos por onde – ou por quem – começar. Explorar o ecossistema pessoal, profissional e de mercado pode trazer grandes insights sobre conexões que nossa percepção não consegue destrinchar sozinha.
 

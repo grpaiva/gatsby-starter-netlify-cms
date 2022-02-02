@@ -5,7 +5,7 @@ author: 'Stella Seixas'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/11/29203018/capa_flow-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/11/29203018/capa_flow-150x150.png'
 ---
 Manter o ritmo, disposição e principalmente o “tesão” por um projeto longo é bem difícil. As vezes ele é tedioso, outras é difícil demais e te frustra, parecia um desafio interessante mas agora já perdeu a graça ou só não te interessa nem um pouco.
 

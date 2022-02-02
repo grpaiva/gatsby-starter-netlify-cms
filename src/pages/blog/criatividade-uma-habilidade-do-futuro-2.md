@@ -5,7 +5,7 @@ author: 'Tai Lacerda'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/04/13205832/criatividade-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/04/13205832/criatividade-150x150.png'
 ---
 **Como você imagina o mundo em 2050?**
 

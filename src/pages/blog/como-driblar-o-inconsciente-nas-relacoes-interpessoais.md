@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-featuredimage: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2019/08/01203157/Vieses-incoscientes_Descoladrops-150x150.png'
+featuredimage: 'https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2019/08/01203157/Vieses-incoscientes_Descoladrops-150x150.png'
 ---
 Você já parou pra pensar quantas vezes você tomou uma decisão baseada em crenças e/ou suposições pré-estabelecidas?
 
