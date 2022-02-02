@@ -1,7 +1,6 @@
 ---
 templateKey: 'product-page'
 path: /products
-templateKey: blog-post
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
