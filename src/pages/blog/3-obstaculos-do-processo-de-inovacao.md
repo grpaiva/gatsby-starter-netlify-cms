@@ -11,7 +11,7 @@ tags:
     - inovação
     - 'Medo de errar'
     - 'obstáculos do processo de inovação'
-featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/07/20125643/inovacao_descola_obstaculos-150x150.png
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/07/20125643/inovacao_descola_obstaculos.png
 ---
 A inovação de um produto ou serviço é alcançada depois de muito planejamento e trabalho. Parece simples, mas inovar exige a superação de muitos desafios. O problema é que muitas empresas, quando pensam em inovação, estão focadas apenas no resultado, enquanto a inovação na verdade está relacionada com todo o processo até chegar ao produto/serviço final. Selecionamos 3 obstáculos do processo de inovação mais frequentes dentro das organizações.
 

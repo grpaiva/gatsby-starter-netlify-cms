@@ -44,13 +44,13 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-relative-images",
+            resolve: "gatsby-remark-relative-images-anywhere",
             options: {
               name: "uploads",
             },
           },
           {
-            resolve: "gatsby-remark-images",
+            resolve: "gatsby-remark-images-anywhere",
             options: {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
