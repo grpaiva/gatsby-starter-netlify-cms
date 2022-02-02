@@ -1,66 +1,13 @@
 ---
+templateKey: blog-post
 title: '3 formas de se inspirar para o seu negócio'
 date: '2014-12-17T12:33:38+00:00'
-status: publish
-permalink: /3-formas-de-se-inspirar-para-o-seu-negocio
-author: 'Equipe Descola'
-excerpt: ''
-type: post
-id: 434
-thumbnail: '../uploadshttps://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2014/12/17123338/descola_ideias-150x150.jpg'
-category:
+featuredpost: false
+featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2014/12/17123338/descola_ideias-150x150.jpg
+tags:
     - Inovação
     - Negócios
     - Tendências
-tag:
-    - 'filmes inspiradores'
-    - 'livros inspiradores'
-post_format:
-    - Imagem
-factory_shortcodes_assets:
-    - 'a:0:{}'
-post_views_count:
-    - '1237'
-sbg_selected_sidebar:
-    - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-    - 'a:1:{i:0;s:1:"0";}'
-bd_video_type:
-    - youtube
-bd_post_type:
-    - post_image
-bd_full_width:
-    - '0'
-bd_post_background_color:
-    - '#'
-bd_post_background_repeat:
-    - repeat
-bd_post_background_attachment:
-    - scroll
-bd_post_background_x:
-    - center
-bd_post_background_y:
-    - center
-bd_review_enable:
-    - '0'
-bd_user_ratings_visibility:
-    - '0'
-bd_review_type:
-    - stars
-bd_criteria_display:
-    - t
-voted_IP:
-    - 'a:3:{s:15:"189.120.167.198";i:1418936103;s:13:"187.37.225.72";i:1419251596;s:13:"177.44.54.248";i:1419806887;}'
-votes_count:
-    - '3'
-bwl_count:
-    - '0'
-post_layout:
-    - sidebar
-bw_featured_post:
-    - '0'
-hide_featured_image:
-    - '0'
 ---
 Iniciar um negócio não é uma tarefa fácil. Requer planejamento, investimento, persistência e inspiração. Isso mesmo! Inspiração é fundamental para todo novo negócio. Além de fazer surgir novas ideias, ela também serve de motivação para que dê certo. Pensando em ajudar novos empreendedoras a encontrar inspiração, separamos algumas dicas. Confira!
 
