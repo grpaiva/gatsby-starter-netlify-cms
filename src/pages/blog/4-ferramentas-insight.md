@@ -4,7 +4,6 @@ date: '2018-10-15T22:12:32+00:00'
 author: 'Stella Seixas'
 featuredpost: false
 templateKey: blog-post
-tags: []
 featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/10/15220706/4_ferramentas_insight.png
 ---
 É comum achar que **ideias** deveriam brotar na nossa cabeça do nada. Aquele momento em que uma lâmpada brilhante aparece, todas as peças se encaixam e a solução surge diante dos nossos olhos, durante o banho ou antes de dormir. Mas infelizmente sua sala de reuniões não tem um chuveiro e o seu chefe precisa neste exato momento de uma solução para o engajamento dos clientes. E agora?
