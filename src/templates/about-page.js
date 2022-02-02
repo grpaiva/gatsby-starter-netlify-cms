@@ -27,8 +27,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
 };
 
 AboutPageTemplate.propTypes = {
-  templateKey: blog-post
-title: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
 };
