@@ -5,7 +5,7 @@ author: 'Tai Lacerda'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/09/20211441/aprendizagem-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/09/20211441/aprendizagem-150x150.png
 ---
 Você já parou para observar uma aula do jardim de infância?
 

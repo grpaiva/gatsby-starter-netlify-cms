@@ -13,7 +13,7 @@ templateKey: blog-post
 tags:
     - 'Lisa lang'
     - start
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/07/16185139/lisa-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/07/16185139/lisa-150x150.png
 ---
 Lisa Lang tem uma história rica como técnica de informação digital e new mídia. Ela já trabalhou para organizações como Campus Party, Smashing Magazine e SitePoint, e tem uma vasta experiência como líder de equipe e organizadora de eventos. Ela é a gerente de Marketing Europeu na [Twilio](https://www.twilio.com/). Trabalhando na área de marketing Lisa dá dicas pontuais de como encarar o trabalho de diferentes perspectivas.
 

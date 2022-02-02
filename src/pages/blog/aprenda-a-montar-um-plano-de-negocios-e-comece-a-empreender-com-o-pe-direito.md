@@ -8,7 +8,7 @@ tags:
     - 'começar a empreender'
     - 'montar plano de negócios'
     - 'plano de negócios empreendimento'
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/09/15175623/businessplan_post-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/09/15175623/businessplan_post-150x150.png
 ---
 Para [<u>dar início a um negócio</u>](http://descola.org/drops/empreender-e-resolver-problemas/), não basta ter boas ideias e capital. É preciso planejar cada etapa por meio do plano de negócios. Mas você conhece a real importância de um *business plan*? Após conhecer bem seu mercado, definir quem será seu público-alvo, listar todas as ideias, definir o modelo de gestão e separar as ferramentas necessárias para o crescimento da empresa, é preciso realizar o planejamento estratégico que norteará seus próximos passos.
 

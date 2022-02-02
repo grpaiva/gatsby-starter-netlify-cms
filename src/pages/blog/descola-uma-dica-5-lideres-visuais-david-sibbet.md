@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/05/11203208/Descola_umadica-5-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/05/11203208/Descola_umadica-5-150x150.png
 ---
 Estamos sempre falando da importância de sermos visuais para que todos possam nos entender. E a dica de hoje é para dar ainda mais ênfase à força do Visual Thinking. Conheça **Líderes Visuais: novas ferramentas para visualizar e gerir mudanças organizacionais**, do David Sibbet.
 

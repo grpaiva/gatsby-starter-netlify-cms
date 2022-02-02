@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2020/01/20133649/rubber-ducks-in-leadership-concept-356HSM8-150x150.jpg
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2020/01/20133649/rubber-ducks-in-leadership-concept-356HSM8-150x150.jpg
 ---
 No início da carreira profissional, nos sentimos um peixe fora d’água. É comum sermos inseridos em um ambiente que não faz sentido algum para nós, cercados por regras, burocracias e processos incoerentes com o mundo lá fora.
 

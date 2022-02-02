@@ -8,7 +8,7 @@ featuredpost: false
 templateKey: blog-post
 tags:
     - 'tecnologias contemporâneas indispensáveis'
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/01/19115031/Depositphotos_35620601_s-150x150.jpg
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/01/19115031/Depositphotos_35620601_s-150x150.jpg
 ---
 Hoje em dia, a tecnologia avança tão rápido que é difícil se lembrar o quão recente algumas inovações são. Tão novas que, às vezes, uma poderia revolucionar o seu dia a dia aparece e você nem percebe!
 

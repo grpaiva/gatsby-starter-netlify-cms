@@ -10,7 +10,7 @@ tags:
     - produtividade
     - 'ser mais produtivo em casa'
     - 'trabalho remoto'
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13201337/Captura-de-Tela-2021-05-13-a%CC%80s-17.13.14-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13201337/Captura-de-Tela-2021-05-13-a%CC%80s-17.13.14-150x150.png
 ---
 Poderíamos dizer uma infinidade de coisas sobre o trabalho remoto. Por exemplo, como começou há mais tempo do que imaginamos. Que foi ganhando força com a chegada do capitalismo e mais ainda com a introdução de novos meios de comunicação como o telégrafo no final do século 18, o telefone (fixo ou móvel) e a internet, ambos no século 20.
 

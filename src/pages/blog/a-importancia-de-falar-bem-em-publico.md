@@ -7,7 +7,7 @@ templateKey: blog-post
 tags:
     - negócios
     - oratoria
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/09/21151326/falar-em-publico-2-150x150.jpg
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/09/21151326/falar-em-publico-2-150x150.jpg
 ---
 Eu nunca fui um cara que falava bem em público. Sempre tive uma mistura de medo e vergonha quando tinha que expor para muitas pessoas o que eu estava sentindo, pensando ou mesmo respondendo. Quando alguma dessas situações acontecia eu tinha um pavor só de imaginar: “O que as pessoas vão achar de mim”?
 

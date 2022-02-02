@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/11/21171550/motivos_cursoonline-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/11/21171550/motivos_cursoonline-150x150.png
 ---
 Você já deve ter percebido que os nossos cursos tem uma pegada diferente do que a maioria das pessoas pensam sobre educação online. Mesmo assim, com aulas muito dinâmicas e professores especialistas em inovação, sempre fica aquela dúvida: *por que eu faria um curso online?*
 

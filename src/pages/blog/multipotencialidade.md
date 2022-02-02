@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/05/03212833/multipotencial-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/05/03212833/multipotencial-150x150.png
 ---
 Você certamente já ouviu essa pergunta quando era criança. Também já deve ter ouvido agora, depois de adulto. O que você quer ser quando crescer?
 

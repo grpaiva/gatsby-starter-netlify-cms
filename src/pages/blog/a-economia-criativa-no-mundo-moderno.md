@@ -5,7 +5,7 @@ author: 'Daniel Pasqualucci'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/07/07144409/305H-1-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/07/07144409/305H-1-150x150.png
 ---
 AFINAL O QUE É ECONOMIA CRIATIVA?
 ---------------------------------

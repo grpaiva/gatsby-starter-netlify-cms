@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/11/16172342/hands-people-woman-meeting-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/11/16172342/hands-people-woman-meeting-150x150.png
 ---
 Muitas vezes, a dificuldade de comunicação faz com que a análise de uma situação (numa reunião, por exemplo) se torne algo exaustivo e desorganizado. Normalmente as pessoas encontram problemas para chegar num consenso, dado que suas opiniões podem ser divergentes e confrontar umas às outras.
 

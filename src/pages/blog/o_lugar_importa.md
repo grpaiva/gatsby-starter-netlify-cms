@@ -5,7 +5,7 @@ author: 'Stella Seixas'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/11/01230321/capa_drops-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/11/01230321/capa_drops-150x150.png
 ---
 Existem profissões inteiramente dedicadas a transformar ambientes em lugares bonitos e agradáveis, para vermos o tamanho da importância que damos a estética a nossa volta. E quando pensamos em decoração, relacionamos direto com nossas casas. Justo, válido, mas precisamos ir além.
 

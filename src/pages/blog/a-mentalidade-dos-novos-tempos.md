@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2020/03/20135627/mentalidade-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2020/03/20135627/mentalidade-150x150.png
 ---
 A gente gosta de repetir que, hoje em dia, as coisas acontecem com muito mais velocidade. E é verdade: a sociedade está mesmo se transformando cada vez mais rápido. Os anos passam voando, as coisas se tornam ultrapassadas com facilidade e o mundo como o conhecemos muda a cada minuto.
 

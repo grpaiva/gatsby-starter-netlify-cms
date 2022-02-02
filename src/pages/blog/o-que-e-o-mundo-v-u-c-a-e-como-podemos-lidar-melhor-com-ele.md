@@ -5,7 +5,7 @@ author: 'Caio Casseb'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/03/22141642/VUCA.001-150x150.jpeg
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/03/22141642/VUCA.001-150x150.jpeg
 ---
 Todos os dias surgem coisas novas no mundo. Algumas delas são completamente revolucionárias e acabam virando situações de cabeça para baixo, fazendo com que o *ontem* pareça algo antigo demais.
 

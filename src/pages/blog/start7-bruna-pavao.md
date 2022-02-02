@@ -14,7 +14,7 @@ tags:
     - 'Bruna Pavão'
     - Gastronomia
     - start
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/08/04155632/Start_Bruna-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/08/04155632/Start_Bruna-150x150.png
 ---
 Bruna Pavão é formada em nutrição e gastronomia e trabalha em diversas áreas do mercado gastronômico, do desenvolvimento de receitas a aulas de gastronomia saudável e traz dicas muito interessantes para quem quer começar nesse mercado.
 

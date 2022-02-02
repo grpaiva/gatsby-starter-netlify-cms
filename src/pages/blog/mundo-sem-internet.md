@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/12/15203251/mundo-internet-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/12/15203251/mundo-internet-150x150.png
 ---
 O mundo digital já é tão interligado com o mundo real que a gente nem percebe mais as diferenças. Tudo está interconectado e é difícil distinguir o real do digital. Mas você já pensou em como seria a sua vida em 2018 se não existisse a Internet?
 

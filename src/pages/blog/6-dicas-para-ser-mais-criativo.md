@@ -8,7 +8,7 @@ tags:
     - criatividade
     - 'dicas de como ser criativo'
     - 'ser criativo'
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/01/12133745/creative-rut-blog-post-picture-v2-150x150.jpg
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/01/12133745/creative-rut-blog-post-picture-v2-150x150.jpg
 ---
 Todo mundo é criativo. Porém, algumas pessoas não sabem aproveitar o poder criativo que têm. A criatividade é um diferencial em vários ramos de atuação e certamente quem faz uso dela obtém melhores resultados.
 

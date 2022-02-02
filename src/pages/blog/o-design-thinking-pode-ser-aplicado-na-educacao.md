@@ -8,7 +8,7 @@ tags:
     - criatividade
     - 'Design Thinking'
     - 'Dicas Design'
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/01/26010931/dteducacao-e1453905315141-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/01/26010931/dteducacao-e1453905315141-150x150.png
 ---
 Para responder a essa pergunta, primeiro precisamos entender o que é Design Thinking. O conceito é vago e a tradução da expressão inglesa difícil, por isso mesmo passou-se a adotá-la no original. O Design Thinking, ou DT, foi popularizado pela IDEO, uma empresa internacional de consultoria e design sediada em Palo Alto, Califórnia, na região do Vale do Silício, famoso por reunir as maiores empresas de tecnologia do mundo. Então, ninguém melhor do que [<u>Tim Brown, o presidente e CEO da empresa</u>](https://www.ideo.com/about/), para dizer o que é DT.
 

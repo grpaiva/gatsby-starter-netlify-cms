@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/11/24183801/golden_circle1-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/11/24183801/golden_circle1-150x150.png
 ---
 Já reparou que existem inúmeras empresas que vendem o mesmo produto/serviço, muitas vezes por valores similares, mas que sempre há aquele nome que se destaca no ramo? Pense no iPhone: o custo benefício do produto é muito semelhante aos celulares top de linha da Samsung, como o Galaxy S7 Edge (comparado ao novo iPhone 7). Entretanto, a maioria dos clientes que compra um produto da Apple pela primeira vez, volta a fazer negócio com a empresa, adquirindo novas versões do produto e até mesmo outros artigos da marca (iPad, iPod etc.). Qual o diferencial que faz com que a marca consiga tamanha fidelidade dos clientes?
 

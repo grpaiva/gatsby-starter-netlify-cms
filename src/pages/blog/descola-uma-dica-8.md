@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/01174651/Descola_umadica-8-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/01174651/Descola_umadica-8-150x150.png
 ---
 Já viu que tem curso novo na Descola sobre [Cidades Inteligentes](https://descola.org/curso/smart-cities)? Aproveitamos que ele está em pré-venda e trouxemos uma dica quentinha diretamente dos bastidores da criação.
 

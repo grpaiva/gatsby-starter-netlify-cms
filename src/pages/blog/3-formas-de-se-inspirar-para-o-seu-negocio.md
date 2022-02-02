@@ -7,7 +7,7 @@ templateKey: blog-post
 tags:
     - 'filmes inspiradores'
     - 'livros inspiradores'
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2014/12/17123338/descola_ideias-150x150.jpg
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2014/12/17123338/descola_ideias-150x150.jpg
 ---
 Iniciar um negócio não é uma tarefa fácil. Requer planejamento, investimento, persistência e inspiração. Isso mesmo! Inspiração é fundamental para todo novo negócio. Além de fazer surgir novas ideias, ela também serve de motivação para que dê certo. Pensando em ajudar novos empreendedoras a encontrar inspiração, separamos algumas dicas. Confira!
 

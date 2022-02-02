@@ -7,7 +7,7 @@ templateKey: blog-post
 tags:
     - empreender
     - 'empreender com propósito'
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/05/25093207/empreender_proposito-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/05/25093207/empreender_proposito-150x150.png
 ---
 Empreender é algo que requer visão, disciplina, determinação e uma certa dose de talento. Mas, existe um certo ingrediente que tem o potencial de mudar o perfil de muitos empreendimentos: propósito.
 

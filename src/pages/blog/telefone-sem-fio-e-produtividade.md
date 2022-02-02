@@ -8,7 +8,7 @@ tags:
     - comunicação
     - gestão
     - 'times remotos'
-image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13203925/Captura-de-Tela-2021-05-13-a%CC%80s-17.38.46-150x150.png
+image: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13203925/Captura-de-Tela-2021-05-13-a%CC%80s-17.38.46-150x150.png
 ---
 ```
 <pre class="wp-block-verse">A comunicação organizacional não pode ser interrompida, nem chegar truncada aos seus pares. Conheça os recursos para manter seus times engajados e por dentro de tudo.
