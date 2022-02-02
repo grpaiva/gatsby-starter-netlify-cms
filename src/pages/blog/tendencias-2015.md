@@ -7,7 +7,7 @@ templateKey: blog-post
 tags:
     - empreendedorismo
     - tendencias
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2014/12/11123427/2015-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2014/12/11123427/2015-150x150.png
 ---
 <div class="form-group">O ano de 2015 promete um grande crescimento na área de empreendedorismo e inovação. Serão muitas oportunidades para os empreendedores, principalmente os criativos, que estão sempre de olho nas tendências de mercado e não perdem novas chances. Para aquecer a mente e ajudá-lo a ter novas ideias, listamos algumas tendências para o próximo ano. Confira!</div><div class="offer-content ng-binding ng-scope">6 tendências no empreendedorismo para 2015
 ------------------------------------------

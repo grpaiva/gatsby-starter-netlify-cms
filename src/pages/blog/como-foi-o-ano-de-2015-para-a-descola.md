@@ -7,7 +7,7 @@ templateKey: blog-post
 tags:
     - 'ano de 2015'
     - 'reflexão descola'
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/12/14081538/descola-cursos-inovadores-site-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/12/14081538/descola-cursos-inovadores-site-150x150.png
 ---
 Esse post será um pouco diferente do que tivemos no nosso blog durante quase todo esse ano. Será mais uma reflexão de tudo que fizemos e o que pretendemos fazer para o próximo ano, e nada mais justo do que compartilhar com vocês um pouco do que fizemos.
 

@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/12/08194525/gerac%CC%A7oes-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/12/08194525/gerac%CC%A7oes-150x150.png
 ---
 Você certamente já deve ter notado que somos diferentes dos nossos pais, e eles dos nossos avós. Com o passar do tempo, muitos eventos históricos marcam as pessoas, costumes são criados e comportamentos são moldados, seja por construção social ou por repetição. Os assuntos dos nossos avós com os amigos deles é completamente diferente das coisas que conversamos com nossos amigos. É por isso e por muitas razões semelhantes que dividimos grupos de pessoas nascidas em determinado período de tempo em **gerações**.
 

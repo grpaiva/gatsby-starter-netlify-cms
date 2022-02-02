@@ -11,7 +11,7 @@ tags:
     - inovação
     - 'inovação como forma de crescimento'
     - 'valores de inovação'
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/01165503/inovacao_pratica1-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/01165503/inovacao_pratica1-150x150.png
 ---
 O tempo de hoje em dia é muito mais dinâmico e voraz do que os de nossos avós, e para acompanhar a velocidade das mudanças e da troca de informações é necessário ter criatividade e saber inovar.
 

@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/09/28215207/progrmar-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/09/28215207/progrmar-150x150.png
 ---
 Há tempos, a programação vem deixando de ser “coisa de nerd”, daquele pessoal que se tranca num quarto escuro com quatro telas em volta cheias de letrinhas brancas num fundo preto.
 

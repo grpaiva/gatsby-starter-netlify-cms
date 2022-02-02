@@ -5,7 +5,7 @@ author: 'Tai Lacerda'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/08/03164918/gestao_do_futuro-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/08/03164918/gestao_do_futuro-150x150.png
 ---
 Imagine se tudo ao seu redor fosse conectado.
 

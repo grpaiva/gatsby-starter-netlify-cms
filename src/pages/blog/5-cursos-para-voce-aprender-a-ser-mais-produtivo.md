@@ -13,7 +13,7 @@ tags:
     - produtividade
     - 'times remotos'
     - 'top 5 cursos online'
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/09/09194833/massive-open-online-courses-150x150.jpeg
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/09/09194833/massive-open-online-courses-150x150.jpeg
 ---
 Durante o período de isolamento alguns assuntos foram abordados em diversas conversas de trabalho. Será que dá pra ser produtivo trabalhando a distância?
 

@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/02/21190733/influencia-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/02/21190733/influencia-150x150.png
 ---
 Provavelmente você já deve ter se feito essa pergunta: **como posso ser mais influente no meu trabalho?** Ou ainda: como me tornar uma pessoa que os colegas procuram quando precisam de um conselho?
 

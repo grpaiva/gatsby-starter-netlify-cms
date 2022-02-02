@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/04/20211833/Descola_umadica-2-150x150.jpg
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/04/20211833/Descola_umadica-2-150x150.jpg
 ---
 Tá procurando uma série nova para assistir? Hoje a gente indica a norte-americana Shark Tank, para quem quiser aprender mais sobre empreendedorismo e investimento.
 

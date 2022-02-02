@@ -8,7 +8,7 @@ tags:
     - 'growth hacking'
     - 'lean startup'
     - 'tendencias digitais'
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/06060744/growth-hacking-descola-150x150.jpg
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/06060744/growth-hacking-descola-150x150.jpg
 ---
 Utilizadas pela maioria das startups do Vale do Silício, as ferramentas de growth hacking são compostas pela união entre o marketing e o desenvolvimento de produtos. Quando utilizadas com estratégia, são capazes de proporcionar uma experiência mais agradável ao consumidor que, por sua vez, atrai novos usuários mediante viralização.
 

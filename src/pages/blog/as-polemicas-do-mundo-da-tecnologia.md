@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/01/10193906/tomada_decisao-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/01/10193906/tomada_decisao-150x150.png
 ---
 Segundo Oliver Usher, os algoritmos e o aprendizado de máquina serão as grandes controvérsias tecnológicas dos próximos anos.
 

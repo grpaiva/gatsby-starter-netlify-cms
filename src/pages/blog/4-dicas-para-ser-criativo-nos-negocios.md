@@ -6,7 +6,7 @@ featuredpost: false
 templateKey: blog-post
 tags:
     - 'criativo nos negócios'
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/02/23174520/photo-1416339306562-f3d12fefd36f-150x150.jpg
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/02/23174520/photo-1416339306562-f3d12fefd36f-150x150.jpg
 ---
 Com a explosão das startups mundo afora — fato que se soma à multiplicidade cada vez maior de tecnologias disponíveis — um dos termos que mais vem sendo utilizado atualmente no mundo dos negócios é a [inovação](http://descola.org/drops/como-o-design-ajuda-a-trazer-inovacoes-para-as-empresas/). Todo empreendedor busca esse diferencial para garantir sua fatia de mercado e se sobressair perante à concorrência. Acontece que a inovação não é um fim, que deve ser perseguido através da criatividade, mas sim um meio. Em outras palavras, ela é o resultado do processo constante de criar.
 

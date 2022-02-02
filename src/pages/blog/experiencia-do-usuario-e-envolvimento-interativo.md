@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/03/20210515/UX-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/03/20210515/UX-150x150.png
 ---
 Quando falamos de Tecnologia da Informação e acesso aos meios digitais, uma porção de novos conceitos (e preocupações) surgem. Muito mais do que entregar um produto para seu cliente, as empresas têm se preocupado cada dia mais com a Experiência do Usuário (UX). E por UX entendemos muito mais do que só a maneira com que o consumidor fará uso do seu produto/serviço. A experiência do usuário tem algo mais ligado ao que o cliente sente quando utiliza aquilo que seu negócio entrega. Ele se sente feliz? É motivado a retornar ao site, comprar mais da mesma marca, utilizar novamente o mesmo serviço?
 

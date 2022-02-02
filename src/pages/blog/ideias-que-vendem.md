@@ -7,7 +7,7 @@ templateKey: blog-post
 tags:
     - 'arquitetura de conteúdo'
     - 'ideias que vendem'
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/05/04103428/ideias-que-vendem-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/05/04103428/ideias-que-vendem-150x150.png
 ---
 Você já teve uma ótima ideia em seu trabalho ou negócio, mas não conseguiu vendê-la como esperava?
 

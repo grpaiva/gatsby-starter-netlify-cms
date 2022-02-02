@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/07201906/crowdfunding-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/06/07201906/crowdfunding-150x150.png
 ---
 O número de pessoas com acesso à Internet cresceu exponencialmente no século XXI, e assistimos à essa expansão todos dias: é difícil encontrar alguém que não tenha um smartphone ou que não consiga acessar a Internet pelo menos no local de trabalho.
 

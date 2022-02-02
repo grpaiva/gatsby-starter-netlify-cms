@@ -8,7 +8,7 @@ tags:
     - 'app para organização'
     - 'apps para celular'
     - 'organizar trabalho'
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/03/02144551/55-150x150.jpg
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/03/02144551/55-150x150.jpg
 ---
 Independentemente de qual seja a sua profissão: se trabalha em um escritório próprio, em uma mesa cheia de colegas ou até se você é “freela”, com certeza um dos seus maiores desafios é organizar trabalho e produtividade no dia a dia.
 

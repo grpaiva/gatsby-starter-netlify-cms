@@ -14,7 +14,7 @@ tags:
     - 'dicas para seu começo'
     - planejamento
     - start
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/06165314/jurandir_craveiro-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/06165314/jurandir_craveiro-150x150.png
 ---
 Jurandir é consultor em planejamento e comunicação. Trabalhou por mais de 10 anos na JWT e Foi um dos fundadores da NBS.
 

@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/04/05220321/cibercultura-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/04/05220321/cibercultura-150x150.png
 ---
 Você já deve ter ouvido falar em algum momento sobre os termos “cibercultura” e “convergência de mídias”. De acordo com Pierre Levy, a cibercultura é um movimento social sustentado principalmente por três pilares: **a interconexão, as comunidades virtuais e a inteligência coletiva**. No caso da convergência de mídias, Henry Jenkins a descreve através do comportamento migratório dos meios de comunicação e da cultura participativa em que isto implica.
 

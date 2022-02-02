@@ -9,7 +9,7 @@ tags:
     - inovação
     - 'inovação tecnológica'
     - tecnologia
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/06/10100156/inovacao_tecnologica-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/06/10100156/inovacao_tecnologica-150x150.png
 ---
 Você empreendedor, sabia que a inovação tecnológica é a chave para automatizar processos e aumentar sua lucratividade? Confira aqui como a tecnologia está a favor do empreendedor e das empresas e veja como, através dela, é possível diminuir os custos e aumentar a viabilidade do seu negócio.
 

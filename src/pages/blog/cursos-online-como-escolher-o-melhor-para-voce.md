@@ -7,7 +7,7 @@ templateKey: blog-post
 tags:
     - 'aproveite cursos online'
     - 'cursos online'
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/05/13100354/cursos-online-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/05/13100354/cursos-online-150x150.png
 ---
 O estudo vem sendo cada vez mais importante em um mercado competitivo, entender sobre esse ponto é crucial para o fortalecimento profissional.  
 Nos últimos cinco anos a forma que mais está ganhando espaço nas agendas e na correria do dia-a-dia de muitos profissionais é o ensino pela internet.

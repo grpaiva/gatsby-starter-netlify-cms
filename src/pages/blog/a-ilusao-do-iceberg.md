@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/10/06202331/iceberg-sucesso-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/10/06202331/iceberg-sucesso-150x150.png
 ---
 Há uma aura em torno do sucesso. Acreditamos que quem chegou lá teve sorte ou trilhou um caminho exato para estar onde está. Mas não é bem assim que funciona. Existem muitos outros fatores envolvidos que formam o alicerce do sucesso. Você provavelmente já deve ter visto o iceberg do sucesso.
 

@@ -8,7 +8,7 @@ tags:
     - DIcas
     - inovação
     - 'Vale do Silício'
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/01/31225449/valefinal-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2016/01/31225449/valefinal-150x150.png
 ---
 Falar sobre inovação é algo muito comum atualmente: em todos os lugares, todos os dias, existe alguém criando ou imaginando algo novo, desafiador, diferente de tudo que já existe! Essa possibilidade de mudar as coisas deixa muitas pessoas curiosas para saber como elas também podem inovar.
 

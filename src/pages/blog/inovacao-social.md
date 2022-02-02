@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/01/24211415/inovacao-social-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2018/01/24211415/inovacao-social-150x150.png
 ---
 Quando pensamos em Inovação, provavelmente o primeiro pensamento que vem à nossa cabeça é alguma coisa nova, diferente. Mas nem sempre precisa funcionar dessa forma.
 

@@ -14,7 +14,7 @@ tags:
     - 'dicas para carreira'
     - jornalismo
     - start
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/06165703/rafael_kenski-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/04/06165703/rafael_kenski-150x150.png
 ---
 Formado em Jornalismo e ciências sociais, Rafael foi editor-chefe de importantes marcas da editora Abril e atualmente é Diretor de projetos especiais na Editora Globo.
 

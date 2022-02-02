@@ -8,7 +8,7 @@ tags:
     - 'administração do tempo'
     - 'controlar o tempo'
     - foco
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/09/06074645/descola_otimize_tempo-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2015/09/06074645/descola_otimize_tempo-150x150.png
 ---
 Entra ano e sai ano você não tem visto seus projetos saírem do papel? A má administração do tempo está por trás da maioria das promessas não cumpridas e dos projetos abandonados no meio do caminho, e esse é um problema mais comum do que você imagina. Só não vale usar a desculpa de sempre, aquela de que o tempo parece correr. Faça as pazes com o relógio e aprenda a controlar seu tempo com as dicas que separamos para você!
 

@@ -5,7 +5,7 @@ author: 'Equipe Descola'
 featuredpost: false
 templateKey: blog-post
 tags: []
-image https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/07/07213933/Descola_umadica-13-150x150.png
+image: //drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/07/07213933/Descola_umadica-13-150x150.png
 ---
 Todo mundo sempre precisa de uma ajudinha na hora de se tornar mais produtivo. A dica da semana é pensando em todos vocês.
 
