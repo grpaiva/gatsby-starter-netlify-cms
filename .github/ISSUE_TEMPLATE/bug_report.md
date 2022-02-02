@@ -1,6 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
+templateKey: blog-post
 title: ''
 labels: ''
 assignees: ''

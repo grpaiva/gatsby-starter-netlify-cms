@@ -1,6 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
+templateKey: blog-post
 title: ''
 labels: ''
 assignees: ''

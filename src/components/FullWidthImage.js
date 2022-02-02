@@ -107,7 +107,8 @@ export default function FullWidthImage(props) {
 
 FullWidthImage.propTypes = {
   img: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
+  templateKey: blog-post
+title: PropTypes.string,
   height: PropTypes.number,
   subheading: PropTypes.string,
 };
