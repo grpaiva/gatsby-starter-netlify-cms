@@ -1,0 +1,72 @@
+// custom blog styles
+.post-heading {
+  margin: auto;
+  max-width: 45em;
+}
+
+.post-container {
+  margin: auto;
+  max-width: 45em;
+
+  ul {
+    margin-left: 2em;
+  }
+
+  blockquote {
+    margin-left: 2em;
+    border-left: 5px solid $primary;
+    padding-left: 10px;
+    &.secondary {
+      border-color: $secondary;
+    }
+    &.tertiary {
+      border-color: $tertiary;
+    }
+  }
+
+  .post__content {
+
+  }
+
+  .testimonial__author {
+    img {
+      margin-top: 0.5em;
+    }
+  
+    .author-info {
+  
+      margin-left: 2em;
+  
+      p.author-name {
+        margin-bottom: .5em;
+      }
+  
+      p.posted-at {
+        text-transform: capitalize;
+        font-size: $p-sm;
+        color: $black;
+        margin-bottom: .5em;
+      }
+      
+      p.author-description {
+        color: $black;
+        font-size: $p;
+      }
+    }
+  }
+}
+
+.badges {
+  span {
+    background-color: $primary;
+
+    &:not(:first-child) {
+      margin-left: 1em;
+    }
+
+    &:nth-of-type(even) {
+      background-color: $secondary;
+    }
+  }
+}
+

@@ -1,9 +1,16 @@
 import * as React from "react";
 import { Helmet } from "react-helmet";
-import Footer from "../components/Footer";
-import Navbar from "../components/Navbar";
-import "./all.sass";
+
+import Footer from "./Footer";
+import Header from "./Header";
+
+import "bootstrap/dist/css/bootstrap.min.css";
+import "@fontsource/roboto-slab";
+import "@fontsource/montserrat";
+import "./css/app.scss";
+
 import useSiteMetadata from "./SiteMetadata";
+
 import { withPrefix } from "gatsby";
 
 const TemplateWrapper = ({ children }) => {
@@ -11,7 +18,7 @@ const TemplateWrapper = ({ children }) => {
   return (
     <div>
       <Helmet>
-        <html lang="en" />
+        <html lang="pt-BR" />
         <title>{title}</title>
         <meta name="description" content={description} />
 
@@ -23,16 +30,8 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-32x32.png`}
-          sizes="32x32"
+          href={`${withPrefix("/")}img/favicon.ico`}
         />
-        <link
-          rel="icon"
-          type="image/png"
-          href={`${withPrefix("/")}img/favicon-16x16.png`}
-          sizes="16x16"
-        />
-
         <link
           rel="mask-icon"
           href={`${withPrefix("/")}img/safari-pinned-tab.svg`}
@@ -48,7 +47,7 @@ const TemplateWrapper = ({ children }) => {
           content={`${withPrefix("/")}img/og-image.jpg`}
         />
       </Helmet>
-      <Navbar />
+      <Header />
       <div>{children}</div>
       <Footer />
     </div>
