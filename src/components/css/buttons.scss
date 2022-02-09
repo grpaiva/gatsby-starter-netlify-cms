@@ -23,7 +23,7 @@
   min-width: 40px;
   border-width: 2px;
   border-right: none;
-  &:last-of-type{
+  &:last-of-type {
     border-right: 2px solid white;
   }
 }
@@ -333,10 +333,10 @@
     overflow: hidden;
     position: relative;
     &:before {
-      content: '';
+      content: "";
       width: 100%;
       height: 100%;
-      background-image: url($cdn+'heart-p.svg');
+      background-image: url($cdn + "heart-p.svg");
       background-size: 15px;
       background-position: center;
       background-repeat: no-repeat;
@@ -345,10 +345,10 @@
       top: 0;
     }
     &:after {
-      content: '';
+      content: "";
       width: 100%;
       height: 100%;
-      background-image: url($cdn+'heart-p_fill.svg');
+      background-image: url($cdn + "heart-p_fill.svg");
       background-size: 15px;
       background-position: center;
       background-repeat: no-repeat;
@@ -375,18 +375,18 @@
     }
     &-secondary {
       &:before {
-        background-image: url($cdn+'heart-s.svg');
+        background-image: url($cdn + "heart-s.svg");
       }
       &:after {
-        background-image: url($cdn+'heart-s_fill.svg');
+        background-image: url($cdn + "heart-s_fill.svg");
       }
     }
     &-tertiary {
       &:before {
-        background-image: url($cdn+'heart-t.svg');
+        background-image: url($cdn + "heart-t.svg");
       }
       &:after {
-        background-image: url($cdn+'heart-t_fill.svg');
+        background-image: url($cdn + "heart-t_fill.svg");
       }
     }
   }
@@ -407,7 +407,7 @@
   padding: 0;
   border: none;
   color: transparent;
-  background-image: url($cdn+'loginFacebook.svg');
+  background-image: url($cdn + "loginFacebook.svg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 152px;
@@ -421,7 +421,7 @@
   padding: 0;
   border: none;
   color: transparent;
-  background-image: url($cdn+'loginGoogle.svg');
+  background-image: url($cdn + "loginGoogle.svg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 152px;
@@ -437,7 +437,7 @@
   border: none;
   position: relative;
   &:before {
-    content: '+';
+    content: "+";
     color: #fff;
     font-size: 20px;
     font-weight: 400;
@@ -451,7 +451,7 @@
   }
   &.btn-plus--open {
     &:before {
-      content: '-';
+      content: "-";
     }
   }
   &:hover {
@@ -536,7 +536,7 @@
     right: 20px;
   }
   &:before {
-    content: '';
+    content: "";
     width: 15px;
     height: 15px;
     border-width: 5px 5px 0 0;
@@ -563,7 +563,7 @@
   display: inline-block;
   cursor: pointer;
   &:before {
-    content: '';
+    content: "";
     width: 100%;
     height: 100%;
     border-width: 4px 4px 0 0;
@@ -618,7 +618,7 @@
   color: transparent;
   padding: 0;
   margin: 0;
-  background-image: url($cdn+'x-icon.svg');
+  background-image: url($cdn + "x-icon.svg");
   background-position: center;
   background-repeat: no-repeat;
   min-width: 45px;
@@ -628,7 +628,7 @@
   overflow: hidden;
   cursor: pointer;
   &:hover {
-    background-image: url($cdn+'x-icon-o.svg');
+    background-image: url($cdn + "x-icon-o.svg");
   }
 }
 
@@ -648,14 +648,14 @@
   padding: 10px;
   margin: 0;
   background-color: $primary;
-  background-image: url($cdn + 'x-icon.svg');
+  background-image: url($cdn + "x-icon.svg");
   background-position: center;
   background-repeat: no-repeat;
   min-width: 25px;
   max-width: 25px;
   height: 25px;
-  top:0px;
-  left:-10px;
+  top: 0px;
+  left: -10px;
   position: relative;
   overflow: hidden;
   &:hover {

@@ -15,7 +15,7 @@
     padding-left: calc(50% - 345px);
     padding-right: calc(50% - 345px);
     justify-content: flex-end;
-    & > div:first-child{
+    & > div:first-child {
       margin-right: auto;
     }
   }
@@ -194,7 +194,7 @@
         height: 34px;
         border: 1px solid #fff;
         margin: auto 0;
-        background-image: url($cdn + 'user-icon.png');
+        background-image: url($cdn + "user-icon.png");
         img {
           width: 32px;
           height: 32px;
@@ -207,7 +207,7 @@
 
       &:before {
         display: block;
-        content: '';
+        content: "";
         height: calc(100% - 6px);
         border-left: 1px solid #fff;
         position: absolute;
@@ -331,7 +331,7 @@
   }
   .search__bar {
     margin-left: 30px;
-    input[type='text'] {
+    input[type="text"] {
       padding: 8px 0 0 0;
       height: 45px;
     }

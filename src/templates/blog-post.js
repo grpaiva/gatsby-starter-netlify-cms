@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from "react";
 import PropTypes from "prop-types";
-import { kebabCase } from "lodash";
 import { Helmet } from "react-helmet";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 
@@ -72,7 +71,7 @@ export const BlogPostTemplate = ({
                 <div className="testimonial__author d-inline-flex">
                   {/* TODO: CREATE AUTHOR CRUD */}
                   <img
-                    alt="Author photo"
+                    alt="Author"
                     src="https://secure.gravatar.com/avatar/1e3e1c302203b5e6244279d89d87ae2e?s=96&d=retro&r=g"
                   />
                   <div className="author-info">

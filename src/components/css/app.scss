@@ -12,7 +12,7 @@ $grid-breakpoints: (
   // Medium
   lg: 992px,
   // Large
-  xl: 1200px // Extra large,,,
+  xl: 1200px // Extra large,,,,,
 ) !default;
 
 $container-max-widths: (
@@ -22,7 +22,7 @@ $container-max-widths: (
   // Medium
   lg: 960px,
   // Large
-  xl: 1180px // Extra large (ORIGINAL = 1140),,,
+  xl: 1180px // Extra large (ORIGINAL = 1140),,,,,
 );
 
 @import "styleguides";

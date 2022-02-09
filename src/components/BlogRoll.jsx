@@ -27,7 +27,7 @@ class BlogRollTemplate extends React.Component {
             </div>
             <div className="course__card__content">
               <h2>{post.frontmatter.title}</h2>
-              <div>{post.frontmatter.description}</div>
+              <p>{post.frontmatter.description}</p>
               <Link to={post.fields.slug} className="btn btn-dark">
                 Leia mais
               </Link>
