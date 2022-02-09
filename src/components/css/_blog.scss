@@ -25,29 +25,27 @@
   }
 
   .post__content {
-
   }
 
   .testimonial__author {
     img {
       margin-top: 0.5em;
     }
-  
+
     .author-info {
-  
       margin-left: 2em;
-  
+
       p.author-name {
-        margin-bottom: .5em;
+        margin-bottom: 0.5em;
       }
-  
+
       p.posted-at {
         text-transform: capitalize;
         font-size: $p-sm;
         color: $black;
-        margin-bottom: .5em;
+        margin-bottom: 0.5em;
       }
-      
+
       p.author-description {
         color: $black;
         font-size: $p;
@@ -69,4 +67,3 @@
     }
   }
 }
-

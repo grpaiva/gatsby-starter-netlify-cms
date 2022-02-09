@@ -1,11 +1,13 @@
 ---
-title: '4 maneiras de usar o tempo ao seu favor para inovar'
-date: '2017-08-09T22:02:04+00:00'
-author: 'Equipe Descola'
-featuredpost: false
+title: 4 maneiras de usar o tempo ao seu favor para inovar
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sem purus, fringilla ut dui id, viverra molestie augue. Nam in vulputate nulla. Vivamus pretium molestie leo eu semper. Sed vestibulum hendrerit odio, porta scelerisque urna dignissim in.
+date: 2017-08-09T22:02:04+00:00
+author: Equipe Descola
 templateKey: blog-post
-featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/08/09215831/aproveitar-tempo.png
+featuredpost: false
+featuredimage: /img/aproveitar-tempo.png
 ---
+
 Tempo: você pode aproveitá-lo de diversas formas, seja poupando-o, matando-o ou gastando-o com atividades produtivas ou não. Mas uma coisa que os empresários não devem fazer com seu tempo, de acordo com David Schonthal, é deixá-lo em estado líquido – correndo sem controle, perdendo-o desnecessariamente.
 
 Existem muitas maneiras de aproveitar seu tempo com sucesso. Se você decide impor prazos, reservar um tempo para reflexão, acelerar os processos ou levá-los com mais calma, o grande segredo é estar consciente de quanto tempo você tem e ser realista sobre como planeja distribui-lo.
@@ -22,7 +24,7 @@ Schonthal aposta em um processo um pouco menos intuitivo para resolver esse prob
 
 ![](https://descola.org/drops/wp-content/uploads/2017/08/brainstorm-1024x682.jpg)
 
-*“Quando você pega um recurso e o limita, isso força as pessoas a fazerem mais com menos e, muitas vezes, são apresentadas soluções inesperadamente criativas”*, diz Schontal. *“Então, quando você limita o tempo, isso faz com que o processo seja mais produtivo. As pessoas sempre ficam surpresas com tudo que conseguem gerar entre três a quatro minutos. Tirar as coisas da cabeça e colocá-las num papel não leva muito tempo.”*
+_“Quando você pega um recurso e o limita, isso força as pessoas a fazerem mais com menos e, muitas vezes, são apresentadas soluções inesperadamente criativas”_, diz Schontal. _“Então, quando você limita o tempo, isso faz com que o processo seja mais produtivo. As pessoas sempre ficam surpresas com tudo que conseguem gerar entre três a quatro minutos. Tirar as coisas da cabeça e colocá-las num papel não leva muito tempo.”_
 
 No entanto, o professor faz uma importante distinção. Ele acredita que o melhor uso do brainstorming é, na verdade, para definir uma direção geral e um conceito para o que está sendo trabalhado, e não para produzir a ideia final de milhões de dólares.
 
@@ -32,17 +34,17 @@ No entanto, o professor faz uma importante distinção. Ele acredita que o melho
 
 Uma vez que seu time identifique uma direção, é tentador dedicar muito tempo para refiná-la e mostrar aos outros. Mas essa pode não ser a forma mais efetiva de ação, diz Schonthal.
 
-*“Algo que foi desenvolvido em uma semana – por que não jogá-lo no mundo e ver o que acontece?”*, ele pergunta. *“Posso pegar a mínima versão viável e obter reações reais de pessoas reais.”*
+_“Algo que foi desenvolvido em uma semana – por que não jogá-lo no mundo e ver o que acontece?”_, ele pergunta. _“Posso pegar a mínima versão viável e obter reações reais de pessoas reais.”_
 
-*“Os primeiros exemplos de produtos do Twitter e da Airbnb eram literalmente esboços”*, afirma o professor. *“Mas eles eram conceitos suficientemente bons para mostrar às pessoas e observar suas reações.”*
+_“Os primeiros exemplos de produtos do Twitter e da Airbnb eram literalmente esboços”_, afirma o professor. _“Mas eles eram conceitos suficientemente bons para mostrar às pessoas e observar suas reações.”_
 
 > Existe o perigo de você quebrar a cara. Você não quer gastar milhões cometendo um erro que poderia ter cometido muito antes com muito menos dinheiro.
 
 Mas será que mostrar seus projetos iniciais para potenciais consumidores não fará com que eles se sintam pouco confiantes em relação às suas criações finais? Não necessariamente, desde que você informe que está mostrando um trabalho em versão beta.
 
-*“Você pode deixá-los atualizados. ‘Veja, esse é um trabalho em progresso. Gostaria de observar sua reação a ele’”*, Schonthal pontua.
+_“Você pode deixá-los atualizados. ‘Veja, esse é um trabalho em progresso. Gostaria de observar sua reação a ele’”_, Schonthal pontua.
 
-*“Os consumidores ficaram muito mais confortáveis ao conhecer coisas antes de estarem prontas. Olhe para o Google”*, o professor prossegue. Por um longo tempo, o Google exibiu a palavra beta ali mesmo no topo, *“então você sabe que está arriscando, experimentando algo que está à frente”.*
+_“Os consumidores ficaram muito mais confortáveis ao conhecer coisas antes de estarem prontas. Olhe para o Google”_, o professor prossegue. Por um longo tempo, o Google exibiu a palavra beta ali mesmo no topo, _“então você sabe que está arriscando, experimentando algo que está à frente”._
 
 Hoje você pode até participar do programa Beta da Google Play Store, no qual é possível baixar uma porção de aplicativos em versão beta em seu Android, para testá-los antes dos demais usuários.
 
@@ -52,7 +54,7 @@ Hoje você pode até participar do programa Beta da Google Play Store, no qual �
 
 Se você for iniciar com uma versão beta, precisa lidar com o fato de que será necessário iterar, prototipar, testar, analisar e refinar seu produto diversas vezes.
 
-*“As pessoas geralmente não reservam tempo para o processo de iteração”*, Schonthal diz. *“Elas apenas assumem que as coisas vão dar certo. Olham para a iteração como um processo de progressão muito linear: você começa de um jeito e termina do mesmo. Mas isso não é verdade.”*
+_“As pessoas geralmente não reservam tempo para o processo de iteração”_, Schonthal diz. _“Elas apenas assumem que as coisas vão dar certo. Olham para a iteração como um processo de progressão muito linear: você começa de um jeito e termina do mesmo. Mas isso não é verdade.”_
 
 Schonthal aconselha que para um progresso realmente interessante, são necessários vários ciclos de iteração – desde que eles sejam feitos o mais rápido possível.
 
@@ -60,21 +62,20 @@ O professor cita a experiência dos empresários estudantes que ele supervisiona
 
 Essa é uma lição crucial, dada a rapidez com que as coisas se movem no mundo do desenvolvimento de produtos nos dias de hoje.
 
-*“A inovação é mais rápida hoje do que nunca. O que pode ser realizado agora em um espaço de tempo é completamente diferente do que era quando eu comecei há dez anos”*, Schonthal reflete. *“A inovação será mais rápida no próximo ano do que é hoje. É provável que ela se torna cada vez mais e mais veloz.”*
+_“A inovação é mais rápida hoje do que nunca. O que pode ser realizado agora em um espaço de tempo é completamente diferente do que era quando eu comecei há dez anos”_, Schonthal reflete. _“A inovação será mais rápida no próximo ano do que é hoje. É provável que ela se torna cada vez mais e mais veloz.”_
 
 ### Tire um tempo para refletir
 
 Uma das etapas mais importantes no processo de design, a síntese, implica em pausar deliberadamente para refletir sobre o que foi observado. E esse é um passo que muitas vezes é negligenciado.
 
-*“Não consigo pensar em muitas organizações que criaram uma etapa clara no projeto para reflexão”*, o professor afirma. *“Normalmente é só ‘vamos, vamos, vamos! Qual o próximo passo? Qual o próximo passo?”*
+_“Não consigo pensar em muitas organizações que criaram uma etapa clara no projeto para reflexão”_, o professor afirma. _“Normalmente é só ‘vamos, vamos, vamos! Qual o próximo passo? Qual o próximo passo?”_
 
 > Às vezes, o melhor próximo passo é dar uma olhada no que já aconteceu.
 
 É natural, e até mesmo esperado, perceber durante o processo de síntese que o problema que você quer resolver com seu produto não é o problema que seu produto de fato resolve. Isso pode parecer uma má notícia, mas tem saída: tirar um tempo para refletir torna possível corrigir as direções que suas soluções tomaram.
 
-*“Tentar apressar a síntese é o ‘beijo da morte’”*, diz ele. *“Insights inesperados requerem reflexão. Essas ideias nunca estão na superfície. Se estiverem, provavelmente são óbvias para todos e não tão inovadoras.”*
+_“Tentar apressar a síntese é o ‘beijo da morte’”_, diz ele. _“Insights inesperados requerem reflexão. Essas ideias nunca estão na superfície. Se estiverem, provavelmente são óbvias para todos e não tão inovadoras.”_
 
-*Este texto foi baseado no artigo da Kellogg Insight. [Veja o original](https://insight.kellogg.northwestern.edu/article/four-ways-innovators-can-use-time-to-their-advantage).*
+_Este texto foi baseado no artigo da Kellogg Insight. [Veja o original](https://insight.kellogg.northwestern.edu/article/four-ways-innovators-can-use-time-to-their-advantage)._
 
-   
 \[icegram campaigns=”6221″\]

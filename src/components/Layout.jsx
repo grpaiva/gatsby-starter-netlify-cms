@@ -13,45 +13,51 @@ import useSiteMetadata from "./SiteMetadata";
 
 import { withPrefix } from "gatsby";
 
-const TemplateWrapper = ({ children }) => {
+const Layout = ({ children }) => {
   const { title, description } = useSiteMetadata();
   return (
-    <div>
+    <>
       <Helmet>
         <html lang="pt-BR" />
         <title>{title}</title>
         <meta name="description" content={description} />
 
-        <link
+        {/* <link
           rel="apple-touch-icon"
           sizes="180x180"
           href={`${withPrefix("/")}img/apple-touch-icon.png`}
-        />
+        /> */}
+        {/* NEED TO ADD 32x32 FAVICON AND 64x64 FAVICON */}
         <link
           rel="icon"
           type="image/png"
           href={`${withPrefix("/")}img/favicon.ico`}
         />
-        <link
+        {/* <link
+          rel="icon"
+          type="image/png"
+          href={`${withPrefix("/")}img/favicon.icFvo`}
+        /> */}
+        {/* <link
           rel="mask-icon"
           href={`${withPrefix("/")}img/safari-pinned-tab.svg`}
           color="#ff4400"
-        />
+        /> */}
         <meta name="theme-color" content="#fff" />
 
-        <meta property="og:type" content="business.business" />
+        {/* <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
           content={`${withPrefix("/")}img/og-image.jpg`}
-        />
+        /> */}
       </Helmet>
       <Header />
       <div>{children}</div>
       <Footer />
-    </div>
+    </>
   );
 };
 
-export default TemplateWrapper;
+export default Layout;

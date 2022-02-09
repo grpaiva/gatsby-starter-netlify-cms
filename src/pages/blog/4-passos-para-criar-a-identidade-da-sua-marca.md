@@ -1,11 +1,13 @@
 ---
-title: '4 passos para criar a identidade da sua marca'
-date: '2017-10-19T19:52:36+00:00'
-author: 'Equipe Descola'
-featuredpost: false
+title: 4 passos para criar a identidade da sua marca
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sem purus, fringilla ut dui id, viverra molestie augue. Nam in vulputate nulla. Vivamus pretium molestie leo eu semper. Sed vestibulum hendrerit odio, porta scelerisque urna dignissim in.
+date: 2017-10-19T19:52:36+00:00
+author: Equipe Descola
 templateKey: blog-post
-featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2017/10/19195206/identidade-marca.png
+featuredpost: false
+featuredimage: /img/identidade-marca.png
 ---
+
 Se você tem o seu negócio ou está envolvido com um, provavelmente já ouviu falar sobre identidade de marca. Mesmo que você não esteja próximo às pessoas que lidam com isso na empresa ou que não tenha nenhuma afinidade com o assunto, você sabe que o poder de lembrança das marcas é decisivo na hora da compra e diz muito sobre o comportamento do consumidor.
 
 Não entendeu muito bem? Pois pense no Itaú. Já vem aquele laranja na cabeça, né? No Nubank, logo lembramos do roxo do cartão e da sua comunicação como um todo. E o McDonald’s? Vermelho com arcos amarelos!

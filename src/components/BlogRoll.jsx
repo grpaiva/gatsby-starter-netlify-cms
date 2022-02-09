@@ -11,8 +11,7 @@ class BlogRollTemplate extends React.Component {
     return (
       posts &&
       posts.map(({ node: post }) => (
-        <div className="col-12 col-sm-6 col-lg-4">
-          {JSON.stringify(post)}
+        <div className="col-12 col-sm-6 col-lg-4" key={JSON.stringify(post)}>
           <div className="course__card">
             <div className="course__card__img">
               {post.frontmatter.featuredimage ? (
@@ -21,12 +20,6 @@ class BlogRollTemplate extends React.Component {
                     imageInfo={{
                       image: post.frontmatter.featuredimage,
                       alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                      width:
-                        post.frontmatter.featuredimage.childImageSharp
-                          .gatsbyImageData.width,
-                      height:
-                        post.frontmatter.featuredimage.childImageSharp
-                          .gatsbyImageData.height,
                     }}
                   />
                 </Link>
@@ -34,7 +27,7 @@ class BlogRollTemplate extends React.Component {
             </div>
             <div className="course__card__content">
               <h2>{post.frontmatter.title}</h2>
-              <div>{post.excerpt}</div>
+              <div>{post.frontmatter.description}</div>
               <Link to={post.fields.slug} className="btn btn-dark">
                 Leia mais
               </Link>
@@ -72,9 +65,15 @@ export default function BlogRoll() {
                 }
                 frontmatter {
                   title
+                  description
                   templateKey
                   date(formatString: "MMMM DD, YYYY")
                   featuredpost
+                  featuredimage {
+                    childImageSharp {
+                      gatsbyImageData
+                    }
+                  }
                 }
               }
             }

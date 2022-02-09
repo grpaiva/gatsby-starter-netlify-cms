@@ -1,18 +1,19 @@
 ---
-title: '3 formas de se inspirar para o seu negócio'
-date: '2014-12-17T12:33:38+00:00'
-author: 'Equipe Descola'
-featuredpost: false
+title: 3 formas de se inspirar para o seu negócio
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sem purus, fringilla ut dui id, viverra molestie augue. Nam in vulputate nulla. Vivamus pretium molestie leo eu semper. Sed vestibulum hendrerit odio, porta scelerisque urna dignissim in.
+date: 2014-12-17T12:33:38+00:00
+author: Equipe Descola
 templateKey: blog-post
+featuredpost: false
+featuredimage: /img/descola_ideias.jpg
 tags:
-    - 'filmes inspiradores'
-    - 'livros inspiradores'
-featuredimage: https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2014/12/17123338/descola_ideias.jpg
+  - filmes inspiradores
+  - livros inspiradores
 ---
+
 Iniciar um negócio não é uma tarefa fácil. Requer planejamento, investimento, persistência e inspiração. Isso mesmo! Inspiração é fundamental para todo novo negócio. Além de fazer surgir novas ideias, ela também serve de motivação para que dê certo. Pensando em ajudar novos empreendedoras a encontrar inspiração, separamos algumas dicas. Confira!
 
-3 formas de se inspirar para o seu negócio
-------------------------------------------
+## 3 formas de se inspirar para o seu negócio
 
 ### **1. Assista filmes e leia livros**
 
@@ -52,9 +53,9 @@ Confira alguns exemplos de sucesso nos negócios:
 - **Abílio Diniz:** é o presidente do conselho administrativo do Grupo Pão de Açúcar e com certeza um grande exemplo para se inspirar.
 - **Alexandre Costa:** o fundador da Cacau Show dá também um “show” de empreendedorismo.
 
-### **3. Participe de eventos** 
+### **3. Participe de eventos**
 
-A partir do momento em que uma pessoa decide abri um negócio, deve munir-se do maior número de informações possível. Os eventos na área de interesse do negócio e sobre empreendedorismo servirão também como inspiração. Portanto, palestras, seminários e apresentação de empreendedores são essenciais. Um bom exemplo de evento inspirador é a Feira do Empreendedor, organizada pelo Sebrae. Além disso, o evento para Mulheres Empreendedoras, da Revista *Pequenas Empresas, Grandes Negócios* inspira mulheres de todo o Brasil.
+A partir do momento em que uma pessoa decide abri um negócio, deve munir-se do maior número de informações possível. Os eventos na área de interesse do negócio e sobre empreendedorismo servirão também como inspiração. Portanto, palestras, seminários e apresentação de empreendedores são essenciais. Um bom exemplo de evento inspirador é a Feira do Empreendedor, organizada pelo Sebrae. Além disso, o evento para Mulheres Empreendedoras, da Revista _Pequenas Empresas, Grandes Negócios_ inspira mulheres de todo o Brasil.
 
 A inspiração é o ponto de motivação que leva o empreendedor a querer sair da zona de conforto e realizar ações que visem o sucesso de um negócio. Mas para o negócio dar certo, essa inspiração deve estar aliada à ação e a outros requisitos importantes como planejamento, por exemplo.
 
