@@ -1,12 +1,10 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import PropTypes from "prop-types";
-import { kebabCase } from "lodash";
 import { Helmet } from "react-helmet";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 
-// eslint-disable-next-line
 export const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -14,36 +12,86 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  author,
+  date,
 }) => {
   const PostContent = contentComponent || Content;
 
+  const [formattedDate, setFormattedDate] = useState("");
+
+  useEffect(() => {
+    function capitalizeFirstLetter(string) {
+      return string.charAt(0).toUpperCase() + string.slice(1);
+    }
+    function formatDate() {
+      return capitalizeFirstLetter(
+        new Date(date).toLocaleString("pt-BR", {
+          weekday: "long",
+          day: "2-digit",
+          month: "long",
+          year: "numeric",
+        })
+      );
+    }
+    setFormattedDate(formatDate());
+  }, []);
+
   return (
-    <section className="section">
-      {helmet || ""}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
+    <>
+      <main className="post individual">
+        <section className="banner banner--grey--dark banner--grey">
+          <div className="container post-heading">
+            <div className="row">
+              <div className="col-12 badges">
+                {tags && tags.length
+                  ? tags.map((tag) => (
+                      <span key={tag + `tag`} className="badge">
+                        {tag}
+                      </span>
+                    ))
+                  : null}
+                {/* <span
+                v-for="category in post.embedded['wp:term'][0]"
+                :key="category.id"
+                className="badge"
+              >
+                {{ category.name }}
+              </span> */}
               </div>
-            ) : null}
+              <div className="col-sm-12 col-md-12 col-lg-9">
+                <h1>{title}</h1>
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
-    </section>
+        </section>
+        <article className="post-container">
+          <div className="container">
+            <div className="row">
+              <div className="col-12">
+                <div className="testimonial__author d-inline-flex">
+                  {/* TODO: CREATE AUTHOR CRUD */}
+                  <img
+                    alt="Author"
+                    src="https://secure.gravatar.com/avatar/1e3e1c302203b5e6244279d89d87ae2e?s=96&d=retro&r=g"
+                  />
+                  <div className="author-info">
+                    <p className="posted-at"> {formattedDate} </p>
+                    <p className="author-name">{author}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-12">
+                <div className="post__content">
+                  <PostContent content={content} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+      </main>
+    </>
   );
 };
 
@@ -75,6 +123,8 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        author={post.frontmatter.author}
+        date={post.frontmatter.date}
       />
     </Layout>
   );
@@ -94,10 +144,10 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date
         title
-        description
         tags
+        author
       }
     }
   }
